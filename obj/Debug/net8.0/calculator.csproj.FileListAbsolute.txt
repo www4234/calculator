@@ -1,0 +1,14 @@
+/home/cesium/projects/calculator/bin/Debug/net8.0/calculator
+/home/cesium/projects/calculator/bin/Debug/net8.0/calculator.deps.json
+/home/cesium/projects/calculator/bin/Debug/net8.0/calculator.runtimeconfig.json
+/home/cesium/projects/calculator/bin/Debug/net8.0/calculator.dll
+/home/cesium/projects/calculator/bin/Debug/net8.0/calculator.pdb
+/home/cesium/projects/calculator/obj/Debug/net8.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/cesium/projects/calculator/obj/Debug/net8.0/calculator.AssemblyInfoInputs.cache
+/home/cesium/projects/calculator/obj/Debug/net8.0/calculator.AssemblyInfo.cs
+/home/cesium/projects/calculator/obj/Debug/net8.0/calculator.csproj.CoreCompileInputs.cache
+/home/cesium/projects/calculator/obj/Debug/net8.0/calculator.dll
+/home/cesium/projects/calculator/obj/Debug/net8.0/refint/calculator.dll
+/home/cesium/projects/calculator/obj/Debug/net8.0/calculator.pdb
+/home/cesium/projects/calculator/obj/Debug/net8.0/calculator.genruntimeconfig.cache
+/home/cesium/projects/calculator/obj/Debug/net8.0/ref/calculator.dll
